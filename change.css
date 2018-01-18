@@ -20,10 +20,12 @@ body, html {
     background-image: url("slike/pozadina2.jpg");
 
     /* Full height */
-    /*height:100%*/
-    height: device-height;
+
+      height:100%
+      /*min-height: device-height;*/
 
     /* Center and scale the image nicely */
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,7 +39,7 @@ h3{
 }
 
 h1 {margin: 1.5em 0 1em;
-  color: grey;
+  color: #990000;
   font-size: 22px;
   font-family: "Times New Roman",sans-serif;
   background-color:  #c2c2a3;
