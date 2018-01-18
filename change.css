@@ -20,7 +20,8 @@ body, html {
     background-image: url("slike/pozadina2.jpg");
 
     /* Full height */
-    height: 100%;
+    /*height:100%*/
+    height: device-height;
 
     /* Center and scale the image nicely */
     background-position: center;
